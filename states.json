@@ -1,0 +1,70 @@
+[
+{"id":"AL", "state":"Alabama", "stateAbbreviation":"AL", "capital":"Montgomery"},
+{"id":"AK", "state":"Alaska", "stateAbbreviation":"AK", "capital":"Juneau"},
+{"id":"AZ", "state":"Arizona", "stateAbbreviation":"AZ", "capital":"Phoenix"},
+{"id":"AR", "state":"Arkansas", "stateAbbreviation":"AR", "capital":"Little Rock"},
+
+{"id":"CA", "state":"California", "stateAbbreviation":"CA", "capital":"Sacramento"},
+{"id":"CO", "state":"Colorado", "stateAbbreviation":"CO", "capital":"Denver"},
+{"id":"CT", "state":"Connecticut", "stateAbbreviation":"CT", "capital":"Hartford"},
+
+{"id":"DE", "state":"Delaware", "stateAbbreviation":"DE", "capital":"Dover"},
+
+{"id":"FL", "state":"Florida", "stateAbbreviation":"FL", "capital":"Tallahassee"},
+
+{"id":"GA", "state":"Georgia", "stateAbbreviation":"GA", "capital":"Atlanta"},
+
+{"id":"HI", "state":"Hawaii", "stateAbbreviation":"HI", "capital":"Honolulu"},
+
+{"id":"ID", "state":"Idaho", "stateAbbreviation":"ID", "capital":"Boise"},
+{"id":"IL", "state":"Illinois", "stateAbbreviation":"IL", "capital":"Springfield"},
+{"id":"IN", "state":"Indiana", "stateAbbreviation":"IN", "capital":"Indianapolis"},
+{"id":"IA", "state":"Iowa", "stateAbbreviation":"IA", "capital":"Des Moines"},
+
+{"id":"KS", "state":"Kansas", "stateAbbreviation":"KS", "capital":"Topeka"},
+{"id":"KY", "state":"Kentucky", "stateAbbreviation":"KY", "capital":"Frankfort"},
+
+{"id":"LA", "state":"Louisiana", "stateAbbreviation":"LA", "capital":"Baton Rouge"},
+
+{"id":"ME", "state":"Maine", "stateAbbreviation":"ME", "capital":"Augusta"},
+{"id":"MD", "state":"Maryland", "stateAbbreviation":"MD", "capital":"Annapolis"},
+{"id":"MA", "state":"Massachusetts", "stateAbbreviation":"MA", "capital":"Boston"},
+{"id":"MI", "state":"Michigan", "stateAbbreviation":"MI", "capital":"Lansing"},
+{"id":"MN", "state":"Minnesota", "stateAbbreviation":"MN", "capital":"Saint Paul"},
+{"id":"MS", "state":"Mississippi", "stateAbbreviation":"MS", "capital":"Jackson"},
+{"id":"MO", "state":"Missouri", "stateAbbreviation":"MO", "capital":"Jefferson City"},
+{"id":"MT", "state":"Montana", "stateAbbreviation":"MT", "capital":"Helena"},
+
+{"id":"NE", "state":"Nebraska", "stateAbbreviation":"NE", "capital":"Lincoln"},
+{"id":"NV", "state":"Nevada", "stateAbbreviation":"NV", "capital":"Carson City"},
+{"id":"NH", "state":"New Hampshire", "stateAbbreviation":"NH", "capital":"Concord"},
+{"id":"NJ", "state":"New Jersey", "stateAbbreviation":"NJ", "capital":"Trenton"},
+{"id":"NM", "state":"New Mexico", "stateAbbreviation":"NM", "capital":"Santa Fe"},
+{"id":"NY", "state":"New York", "stateAbbreviation":"NY", "capital":"Albany"},
+{"id":"NC", "state":"North Carolina", "stateAbbreviation":"NC", "capital":"Raleigh"},
+{"id":"ND", "state":"North Dakota", "stateAbbreviation":"NC", "capital":"Bismarck"},
+
+{"id":"OH", "state":"Ohio", "stateAbbreviation":"OH", "capital":"Columbus"},
+{"id":"OK", "state":"Oklahoma", "stateAbbreviation":"OK", "capital":"Oklahoma City"},
+{"id":"OR", "state":"Oregon", "stateAbbreviation":"OR", "capital":"Salem"},
+
+{"id":"PA", "state":"Pennsylvania", "stateAbbreviation":"PA", "capital":"Harrisburg"},
+
+{"id":"RI", "state":"Rhode Island", "stateAbbreviation":"RI", "capital":"Providence"},
+
+{"id":"SC", "state":"South Carolina", "stateAbbreviation":"SC", "capital":"Columbia"},
+{"id":"SD", "state":"South Dakota", "stateAbbreviation":"SD", "capital":"Pierre"},
+
+{"id":"TN", "state":"Tennessee", "stateAbbreviation":"TN", "capital":"Nashville"},
+{"id":"TX", "state":"Texas", "stateAbbreviation":"TX", "capital":"Austin"},
+
+{"id":"UT", "state":"Utah", "stateAbbreviation":"UT", "capital":"Salt Lake City"},
+
+{"id":"VT", "state":"Vermont", "stateAbbreviation":"VT", "capital":"Montpelier"},
+{"id":"VA", "state":"Virginia", "stateAbbreviation":"VA", "capital":"Richmond"},
+
+{"id":"WA", "state":"Washington", "stateAbbreviation":"WA", "capital":"Olympia"},
+{"id":"WV", "state":"West Virginia", "stateAbbreviation":"WV", "capital":"Charleston"},
+{"id":"WI", "state":"Wisconsin", "stateAbbreviation":"WI", "capital":"Madison"},
+{"id":"WY", "state":"Wyoming", "stateAbbreviation":"WY", "capital":"Cheyenne"}
+]
